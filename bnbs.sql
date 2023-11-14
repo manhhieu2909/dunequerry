@@ -17,7 +17,7 @@ WITH ranked_transactions AS (
     AND BYTEARRAY_STARTS_WITH(data, 0x646174613a2c7b2270223a226265702d3230222c226f70223a226d696e74222c227469636b223a22626e6273222c226964223a)
 )
 SELECT
-  '推特关注傻哥@bitfool1' AS promotion,
+  'bnbs' AS promotion,
   block_time,
   block_number,
   decode_data,
