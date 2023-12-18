@@ -7,7 +7,7 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
 
 ## Deployment information first inscription on ROIN
 
-## Token Economic Information
+### Token Economic Information
 - **Token**: RONI
 - **Supply**: 21,000,000,000
 - **Limit**: 1000
