@@ -3,7 +3,7 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
 ## Method
  - deploy: `data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}`
  - mint: `data:,{"p":"ron-20","op":"mint","tick":"roni","amt":"1000"}`
- - transfer: `data:,{"p":"ron-20","op":"transfer","tick":"roni","detail":[{"to":"ROIN Address","amt":"1000"}]}`
+ - transfer: `data:,{"p":"ron-20","op":"transfer","tick":"roni","detail":[{"to":"Ronin Address","amt":"1000"}]}`
 
 ## Deployment information first inscription on ROIN
 
