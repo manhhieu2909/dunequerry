@@ -5,14 +5,14 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
  - mint: `data:,{"p":"ron-20","op":"mint","tick":"roni","amt":"1000"}`
  - transfer: `data:,{"p":"ron-20","op":"transfer","tick":"roni","detail":[{"to":"Ronin Address","amt":"1000"}]}`
 
-## Deployment information first inscription on ROIN
+## Deploy RONI - The first inscription on the Ronin chain
 
 ### Token Economic Information
 - **Token**: RONI
 - **Supply**: 21,000,000,000
 - **Limit**: 1000
 
-### Transaction Details
+### Deploy transaction Details
 - **Transaction ID (TxID)**: [Deploy TxID](https://www.oklink.com/vi/ronin/tx/0x01b02eaeacb50285b1bb005b00c279e57f9726af2323d223966969c829610053)
 - **Block Number**: 30292785
 - **Hex**:
