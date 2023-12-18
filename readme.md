@@ -20,7 +20,7 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
 - **Hex**: `0x646174613a2c7b2270223a22726f6e2d3230222c226f70223a226465706c6f79222c227469636b223a22726f6e69222c226d6178223a223231303030303030303030222c226c696d223a2231303030227d`
 - **UTF-8**: `data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}`
 
-### Minting RONI Tokens Guide
+## Minting RONI Tokens Guide
 
 This guide provides step-by-step instructions on minting RONI tokens using Pocket Wallet.
 
@@ -52,7 +52,7 @@ This guide provides step-by-step instructions on minting RONI tokens using Pocke
 6. **Congratulations! You have successfully added a custom chain to your Pocket wallet.**
 
 
-## Steps to Mint RONI Tokens:
+### Steps to Mint RONI Tokens:
 
 1. **Open your wallet application.**
 
@@ -87,7 +87,4 @@ This guide provides step-by-step instructions on minting RONI tokens using Pocke
 - Gas fees for transactions may be adjustable based on the current state of the chain. Please consider adjusting the gas fees according to the network conditions for timely transaction processing.
 
 - This process involves minting RONI tokens using specific encoded data. Ensure accurate entry of the provided text or hexadecimal string to successfully mint the tokens.
-
-
-![image](https://github.com/ETW20-ETWS/ETW20/assets/152284226/a5ae35a1-6279-4bbb-95f1-9415ed463424)
 
