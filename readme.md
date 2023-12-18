@@ -1,16 +1,16 @@
-# ETW20 Protocol on ETHW Blockchain
+# RON-20 Protocol on RONIN Blockchain
 
-This protocol, ETW20, operates on the ETHW blockchain and utilizes the memo field of transactions to facilitate its functionalities.
+This protocol, RON-20, operates on the ROIN blockchain and utilizes the memo field of transactions to facilitate its functionalities.
 
 ## Token Economic
 
-- **Token**: ETWS
-- **Supply**: 21,000,000,000 (Non-autobiography and contract invalid)
+- **Token**: RONI
+- **Supply**: 21,000,000,000
 - **Limit**: 1000
 
 ## Methods
 
 ### Deployment
-- **Transaction ID (TxID)**: [Deploy TxID](https://www.oklink.com/cn/ethw/tx/0xa90bd37363bd982d43b858db9cbdeee6fed34362d99bf12e3cdaa69a0e961842)
-- **Block Number**: 18448609
+- **Transaction ID (TxID)**: [Deploy TxID](https://www.oklink.com/vi/ronin/tx/0x01b02eaeacb50285b1bb005b00c279e57f9726af2323d223966969c829610053)
+- **Block Number**: Block #30292785
 - **Data**:
