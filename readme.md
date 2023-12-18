@@ -5,17 +5,21 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
  - mint: `data:,{"p":"ron-20","op":"mint","tick":"roni","amt":"1000"}`
  - transfer: `data:,{"p":"ron-20","op":"transfer","tick":"roni","detail":[{"to":"ROIN Address","amt":"1000"}]}`
 
-### Deployment information first inscription on ROIN
-- *Deployment information*
-- **Transaction ID**: [Deploy TxID](https://www.oklink.com/vi/ronin/tx/0x01b02eaeacb50285b1bb005b00c279e57f9726af2323d223966969c829610053)
-- **Block Number**: `30292785`
-- **Data**:
-- ***HEX***:`0x646174613a2c7b2270223a22726f6e2d3230222c226f70223a226465706c6f79222c227469636b223a22726f6e69222c226d6178223a223231303030303030303030222c226c696d223a2231303030227d`
-- ***UTF-8***:`data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}`
-- *Token Economic*
-- ***Token***: RONI
-- ***Supply***: 21000000000
-- ***limit***: 1000
+## Deployment Information on Ronin
+
+### Transaction Details
+- **Transaction ID (TxID)**: Deploy TxID
+- **Block Number**: 30292785
+
+### Data
+- **HEX**: `0x646174613a2c7b2270223a22726f6e2d3230222c226f70223a226465706c6f79222c227469636b223a22726f6e69222c226d6178223a223231303030303030303030222c226c696d223a2231303030227d`
+- **UTF-8**: `data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}`
+
+## Token Economic Information
+- **Token**: RONI
+- **Supply**: 21,000,000,000
+- **Limit**: 1000
+
 ## Mint RONI with TokenPocket Wallet
  - Receiver address: Your address. 
  - Transfer amount 0 RON
