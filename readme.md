@@ -82,7 +82,7 @@ This guide provides step-by-step instructions on minting RONI tokens using Pocke
 
 10. **Wait for the transaction to confirm on the network.**
 
-## Important Note:
+### Important Note:
 
 - Gas fees for transactions may be adjustable based on the current state of the chain. Please consider adjusting the gas fees according to the network conditions for timely transaction processing.
 
