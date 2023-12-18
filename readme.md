@@ -13,10 +13,10 @@ RON-20 Protocol base on ROIN blockchain writing the string into the memo field o
 
 ### Deployment
 - **Transaction ID**: [Deploy TxID](https://www.oklink.com/vi/ronin/tx/0x01b02eaeacb50285b1bb005b00c279e57f9726af2323d223966969c829610053)
-- **Block Number**: 30292785
+- **Block Number**: `30292785`
 - **Data**:
-- ***HEX***:0x646174613a2c7b2270223a22726f6e2d3230222c226f70223a226465706c6f79222c227469636b223a22726f6e69222c226d6178223a223231303030303030303030222c226c696d223a2231303030227d
-- ***UTF-8***:data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}
+- ***HEX***:`0x646174613a2c7b2270223a22726f6e2d3230222c226f70223a226465706c6f79222c227469636b223a22726f6e69222c226d6178223a223231303030303030303030222c226c696d223a2231303030227d`
+- ***UTF-8***:`data:,{"p":"ron-20","op":"deploy","tick":"roni","max":"21000000000","lim":"1000"}`
 
 ## Mint RONI with TokenPocket Wallet
  - Receiver address: Your address. 
